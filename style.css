@@ -86,7 +86,6 @@ body{
 
 .nav-bar{
     background-color: var(--blue);
-    
 }
 .nav-bar ul{
     list-style-type: none;
@@ -133,9 +132,9 @@ body{
 section{
     margin-bottom: 50px;
 }
-ul {
+ul{
     list-style: none;
-  }
+}
 ul.sub-list li::before{
     content: "\2022";
     color:var(--magenta);
@@ -180,5 +179,4 @@ footer{
         padding-right: 3rem;
         padding-left: 3rem;
     }
-
 }
