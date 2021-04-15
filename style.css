@@ -80,7 +80,22 @@ body{
     padding: 1rem 2rem;
     text-decoration: none;
 }
+
 .btn:hover{
+    background: var(--blue);
+}
+
+.btn2{
+    background: var(--orange);
+    color: white;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.btn2:hover{
     background: var(--blue);
 }
 
@@ -128,6 +143,7 @@ body{
     display: block;
     margin: auto;
 }
+
 
 section{
     margin-bottom: 50px;
